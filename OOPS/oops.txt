@@ -1,0 +1,55 @@
+                       OOPS (object orinted programing )
+    there are folling of him
+1) object
+2) class
+3)inhertance
+4)abstraction 
+5)polymarphisem
+6)Encapsolation
+  
+(1) ------------------------------------OBJECT-------------------------
+class is a defind of an a class
+
+(2)-------------------------------------CLASS--------------------------
+ object is a instance of a class
+ =======================================Constructor======================
+Contructor is user for creating an object of a class .(no option for return type and it has the same name as the name of the class.
+ex===>
+class name =>book
+contructor name->booK
++++++++++++++++++++++++++++++++++++++++(TYPE OF THE constructor)+++++++++++++++++++++
+
+there are 4 type of the construtor
+1)default constructor
+2)copy construtor
+3)Parameterized Constructor
+4)non Parameterized Constructor
+
+                                      (NOTE)
+-----------------------------(DEFAULT CONTRUCTOR)----------------------------
+ IT IS A DEFIND BY JAVA ITSELF WHEN WE DID NOT GIVEN CLASS.
+
+(3)-----------------------------------inhertance------------------------
+                                      NOTE
+(BACKUP CAMFORTABLE MAINTANCE IN EXITING VERSION. )
+
+Inhertance is a process by which  we can creat new  version  of an exiting version maintance backup comfatible maintance.
+(4)------------------------------------Abracation Class--------------------
+
+abstraction is a process by which the user  on centrates a learning how to user an object and not an the unneccasary implimenation and other background  detais. 
+
+(5)----------------------------------polymorphims------------------------------
+
+the same command has been deffrent meaning based on the number of input .all the object  to which the command belong .
+
+
+                              (type of polymorphism)
+there are a two type of a polymorphism .
+1)Dynamic(run time polymorphism ) 
+2)Staitc(compile time polymorphism)
+                              (NOTE)
+INcapsolution  process by whuich  multiple object are stored  included on single objct which-
+
+(6)---------------------------------Module---------------------------------------
+
+module is a different part of program (separetely edited , separetely combind ,separetely twisted and combine into the single project 
